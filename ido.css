@@ -72,3 +72,7 @@ input
 	color:  #808183;
 	font-weight: bold;
 }
+li{
+	list-style-image: url(nap.png);
+	margin-left: 10%;
+}
