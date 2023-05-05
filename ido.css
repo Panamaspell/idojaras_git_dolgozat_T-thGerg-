@@ -76,3 +76,7 @@ li{
 	list-style-image: url(nap.png);
 	margin-left: 10%;
 }
+dt{
+	color:  #243f84;
+	text-decoration: underline;
+}
