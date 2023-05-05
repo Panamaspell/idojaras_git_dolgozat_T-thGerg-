@@ -62,6 +62,9 @@ input
 	font-size:medium;
 	margin-top:2%;
 }
+input:focus{
+	background-color: #808183;
+}
 .cimek{
 	color: #243f84;
 	text-transform: uppercase;
