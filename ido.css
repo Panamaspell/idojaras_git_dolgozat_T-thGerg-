@@ -30,8 +30,12 @@ p
 table
 {
 	border:outset;
+	text-align: center;
 }
-
+td{
+	padding: 0;
+	margin: 0;
+}
 hr
 {
 	background-color:#243f84;
